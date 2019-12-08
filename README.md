@@ -1,4 +1,4 @@
-# VGA-Driver-Implementation
+# VGA Driver Implementation
 
 By Viktoria Biliouri
 
